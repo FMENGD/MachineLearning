@@ -20,3 +20,11 @@ xgboost>catboost>lightgbm
 准确率取最高时，运行时长：
 
 xgboost<lightgbm<catboost
+
+PS:
+源数据太大没放上来，放百度网盘了。
+
+链接：https://pan.baidu.com/s/1GNGSy_c1rJ0yJ3RJ0YI5Ow 
+
+
+提取码：7012
